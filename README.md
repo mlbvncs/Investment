@@ -1,10 +1,10 @@
 # Investment
 
-Full Stack project that simulates an investment in ads using Python (Flask), HTML and CSS.
+Full Stack project that simulates an investment in ads using Python (Flask), HTML, CSS and Machine Learning.
 
 ## Objectives
 
-Create a full stack project that allows the user to enter values ​​in reais (R$) to be invested in TV, newspaper and radio and receive the value returned, also in reais (R$).
+Create a full stack project that allows the user to enter values ​​in reais (R$) to be invested in TV, newspaper and radio and receive, through a calculation coming from a Machine Learning model, the value returned, also in reais (R$).
 
 ## Getting Started
 
